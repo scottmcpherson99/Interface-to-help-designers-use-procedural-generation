@@ -1,0 +1,4 @@
+C:\Users\sm_99\Documents\CMP 400\Feasibility\Demo\lib\Debug\DXFramework.pdb
+C:\Users\sm_99\Documents\CMP 400\Feasibility\Demo\DXFramework\x64\Debug\DXFramework.pdb
+D:\CMP 400\Feasibility\Submission\Extra Artifacts\Demo\lib\Debug\DXFramework.pdb
+D:\CMP 400\Feasibility\Submission\Extra Artifacts\Demo\DXFramework\x64\Debug\DXFramework.pdb

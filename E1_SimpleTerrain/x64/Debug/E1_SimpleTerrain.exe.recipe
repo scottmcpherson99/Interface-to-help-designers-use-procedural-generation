@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\CMP 400\Feasibility\Submission\Extra Artifacts\Demo\x64\Debug\E1_SimpleTerrain.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\CMP 400\Feasibility\Submission\Extra Artifacts\Demo\E1_SimpleTerrain\light_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\CMP 400\Feasibility\Submission\Extra Artifacts\Demo\E1_SimpleTerrain\light_vs.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

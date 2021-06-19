@@ -1,0 +1,3 @@
+﻿D:\CMP 400\Feasibility\Submission\Extra Artifacts\Demo\E1_SimpleTerrain\shaders\light_ps.hlsl(42,30-40): error X4502: invalid vs_2_0 output semantic 'SV_TARGET'
+  
+  compilation failed; no code produced

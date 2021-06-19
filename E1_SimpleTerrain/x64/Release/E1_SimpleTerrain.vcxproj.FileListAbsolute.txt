@@ -1,0 +1,2 @@
+D:\CMP 400\Feasibility\Submission\Extra Artifacts\Demo\x64\Release\light_ps.cso
+D:\CMP 400\Feasibility\Submission\Extra Artifacts\Demo\x64\Release\light_vs.cso
